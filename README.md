@@ -8,7 +8,7 @@ This is an web application made solely for note taking. This application's funct
 
 No installation is necessary for the online application. The application is running on Heroku [here](https://ancient-mountain-46852.herokuapp.com/)
 
-To run the web application locally, you may clone the repository from github, run ```npm i``` to install all the dependencies, then run node server.js. From this point, you should be able to access the web application through localhost of port 3001.
+To run the web application locally, you may clone the repository from github, run ```npm i``` to install all the dependencies, then run ```node server.js```. From this point, you should be able to access the web application through localhost of port 3001.
 
 ## Usage
 
